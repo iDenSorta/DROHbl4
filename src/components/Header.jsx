@@ -9,7 +9,7 @@ function Header() {
         <Link to={'/'}>
           <img src={Logo} alt='' />
         </Link>
-        <h1 className="lg:fixed">Cфоткаю вашу хуйню</h1>
+        <h1>Cфоткаю вашу хуйню</h1>
         <nav className="hidden lg:flex gap-10">
           <Link to={'/'} className='text-[#696c6d] hover:text-primary transition '>Домой</Link>
           <Link to={'/People'} className='text-[#696c6d] hover:text-primary transition '>Чечики</Link>
