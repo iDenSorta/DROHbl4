@@ -6,7 +6,7 @@ function Header() {
     return (
       <header className="bg-pink-200 fixed w-full px-8 lg:px-16 z-30 h-[100px] lg:h-[130px] flex items-center">
         <div className="flex flex-col lg:flex-row lg:items-center w-full justify-between">
-        <Link to={'/'}>
+        <Link to={'/DROHbl4'}>
           <img src={Logo} alt='' />
         </Link>
         <h1>Cфоткаю вашу хуйню</h1>
