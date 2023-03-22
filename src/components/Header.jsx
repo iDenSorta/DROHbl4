@@ -11,7 +11,7 @@ function Header() {
         </Link>
         <h1>Cфоткаю вашу хуйню</h1>
         <nav className="hidden lg:flex gap-10">
-          <Link to={'/'} className='text-[#696c6d] hover:text-primary transition '>Домой</Link>
+          <Link to={'/DROHbl4'} className='text-[#696c6d] hover:text-primary transition '>Домой</Link>
           <Link to={'/People'} className='text-[#696c6d] hover:text-primary transition '>Чечики</Link>
           <Link to={'/Aircraft'} className='text-[#696c6d] hover:text-primary transition '>Дронычы</Link>
           <Link to={'/Services'} className='text-[#696c6d] hover:text-primary transition '>Услуги</Link>

@@ -12,7 +12,7 @@ import { Routes, Route, useLocation } from 'react-router-dom'
 function AnimRoutes() {
     return (
     <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/DROHbl4' element={<Home />} />
         <Route path='/aircraft' element={<Aircraft />} />
         <Route path='/people' element={<People />} />
         <Route path='/about' element={<About />} />
