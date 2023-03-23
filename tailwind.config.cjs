@@ -1,3 +1,5 @@
+
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -22,6 +24,10 @@ module.exports = {
 
         accent: '#EEF7F9',
       },
+      backgroundImage: {
+        'hero': "url('https://raw.githubusercontent.com/iDenSorta/DROHbl4/main/src/img/header/logo.png')",
+        
+      }
     },
   },
   plugins: [],
