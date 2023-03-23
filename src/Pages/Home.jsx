@@ -1,9 +1,14 @@
 import React from "react"
-
+import IMG from "../img/header/logo.png"
 function Home() {
     return (
       <section className="section bg-blue-400">
-        <div className="lg:block">aaa</div>
+        <div className="bg-hero bg-cover mx-auto h-full justify-center">
+          <div className="flex justify-center mx-auto h-full items-center text-4xl">
+            СФОТКАЮ ВАШУ ХУЙНЮ
+          </div>
+        </div>
+        
       </section>
       
      

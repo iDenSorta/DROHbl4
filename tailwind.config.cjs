@@ -22,6 +22,10 @@ module.exports = {
 
         accent: '#EEF7F9',
       },
+      backgroundImage: {
+        'hero': "url('./src/img/header/logo.png')",
+        
+      }
     },
   },
   plugins: [],
